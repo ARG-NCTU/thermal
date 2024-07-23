@@ -1,4 +1,11 @@
 # Thermal Tools
+
+Clone this repo
+```sh
+git clone https://github.com/ARG-NCTU/thermal.git
+```
+
+
 ## 1. Thermal Camera Spinview API Setup
 
 Install Spinview API Environment
