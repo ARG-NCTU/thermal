@@ -17,18 +17,20 @@ This guide provides step-by-step instructions to set up and run the thermal came
 ### 1.2. Setup Instructions
 
 #### 1.2.1. Install Environment on local
+
 ```sh
 sudo apt-get update
 sudo apt-get install libusb-1.0-0 libavcodec58 libavformat58 libswscale5 libswresample3 libavutil56 qt5-default
 ```
 
-Install Spinview API 
+#### 1.2.2. Install Spinview API 
+
 ```sh
 cd ~/thermal/spinnaker-3.0.0.118-amd64
 sudo sh install_spinnaker.sh
 ```
 
-#### 1.2.2. Run Spinview Application
+#### 1.2.3. Run Spinview Application
 
 If you cannot connect to thermal, please edit your network:
 ```sh
