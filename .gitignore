@@ -1,0 +1,6 @@
+catkin_ws/build/
+catkin_ws/devel/
+catkin_ws/.catkin_workspace
+catkin_ws/.catkin_tools
+catkin_ws/src/thermal_cam/images
+spinnaker_python-3.0.0.118-cp38-cp38-linux_x86_64/
