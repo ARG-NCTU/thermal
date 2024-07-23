@@ -5,9 +5,9 @@ Clone this repo
 git clone https://github.com/ARG-NCTU/thermal.git
 ```
 
-## 1. Thermal Camera Spinview API
+## 1. Thermal Camera SpinView API
 
-This guide provides step-by-step instructions to set up and run the thermal camera acquisition system using a virtual environment and ROS Noetic.
+This guide provides step-by-step instructions to set up and run the SpinView application.
 
 ### 1.1. Prerequisites
 
